@@ -30,7 +30,7 @@ Things we have done in making this projects are:- ->Designing the 3-D model on B
 ####  - Feature 2
 [Gamified View](https://endearing-custard-595a67.netlify.app/) (Interior View ).
 
-![](https://i.ibb.co/YcCVj3P/2.png)
+[](https://i.ibb.co/Tq6dLN9/2.png)
 ####  Contributors
 
 - [Aditya Mishra](https://github.com/aditya29mishra) 
